@@ -1,14 +1,15 @@
 import "./App.css"
+//Componentes
 import Navbar from "./components/Navbar/Navbar";
-import CartWidget from "./components/CartWidget/CartWidget";
-import ItemListContainer from "./components/ItemListContainer/ItemListContainer";
+import { ItemListContainer } from "./components/ItemListContainer/ItemListContainer";
+import { ItemDetailContainer } from "./components/ItemDetailContainer/ItemDetailContainer";
 
 function App() {
   return (
     <>
       <Navbar/>
-      <CartWidget cantiCarrito={5}/>
-      <ItemListContainer prodElegido={"Royal Canin Indoor 7,5kg"}/>
+      <ItemListContainer/>
+      <ItemDetailContainer/>
     </>
   );
 }
