@@ -5,119 +5,119 @@
         "nombre": "Mini Adult",
         "marca": "Royal Canin",
         "modelo": "3kg",
-        "precio": 60000,
+        "precio": 4300,
         "stock": 30,
         "img": "royal-mini-adult.png"
     },
     {
         "id": 2,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Xiomi",
-        "modelo": "Mi-9",
-        "precio": 35000,
+        "nombre": "Kitten",
+        "marca": "Royal Canin",
+        "modelo": "7,5kg",
+        "precio": 13500,
         "stock": 20,
         "img": "royal-kitten.jpeg"
     },
     {
         "id": 3,
-        "idCategoria": 3,
-        "nombre": "Smart Tv",
-        "marca": "Novatech",
-        "modelo": "50D1U",
-        "precio": 57000,
+        "idCategoria": 2,
+        "nombre": "Skin Sensitive",
+        "marca": "Pro Plan",
+        "modelo": "3kgs",
+        "precio": 7100,
         "stock": 15,
-        "img": "royal-mini-adult.png"
+        "img": "pro-plan-sensitive-skin.jpg"
     },
     {
         "id": 4,
-        "idCategoria": 4,
-        "nombre": "Camara ",
-        "marca": "iQual",
-        "modelo": "C40",
-        "precio": 8000,
+        "idCategoria": 2,
+        "nombre": "Indoor",
+        "marca": "Royal Canin",
+        "modelo": "7,5kg",
+        "precio": 12500,
         "stock": 30,
-        "img": "royal-kitten.jpeg"
+        "img": "royal-indoor.jpeg"
     },
     {
         "id": 5,
-        "idCategoria": 4,
-        "nombre": "Mouse",
-        "marca": "Logitech",
-        "modelo": "G502",
-        "precio": 1400,
+        "idCategoria": 1,
+        "nombre": "Adult Razas Medianas",
+        "marca": "Pro Plan",
+        "modelo": "15kgs",
+        "precio": 14000,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "pro-plan-medianas-adult.png"
     },
     {
         "id": 6,
         "idCategoria": 4,
-        "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse",
-        "precio": 4000,
+        "nombre": "Absorbente Sanitario",
+        "marca": "Poopy Pets",
+        "modelo": "5kg",
+        "precio": 560,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "piedras-poopy-pets.png"
     },
     {
         "id": 7,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Apple",
-        "modelo": "Iphone X Silver",
-        "precio": 250000,
+        "idCategoria": 4,
+        "nombre": "Mordillo Antistress",
+        "marca": "CanCat",
+        "modelo": "Ice",
+        "precio": 1000,
         "stock": 10,
-        "img": "iphone-x.jpg"
+        "img": "mordillo-perro.jpeg"
     },
     {
         "id": 8,
         "idCategoria": 3,
-        "nombre": "Apple TV",
-        "marca": "Apple ",
-        "modelo": "32 Gb",
-        "precio": 45000,
+        "nombre": "Mix Hamster",
+        "marca": "Nelsoni Ranch",
+        "modelo": "750gr",
+        "precio": 420,
         "stock": 30,
-        "img": "apple-tv.jpg"
+        "img": "mix-hamster.png"
     },
     {
         "id": 9,
-        "idCategoria": 4,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
-        "precio": 34000,
+        "idCategoria": 3,
+        "nombre": "Mix Cobayos",
+        "marca": "Nelsoni Ranch",
+        "modelo": "750gr",
+        "precio": 420,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "mix-cobayos.png"
     },
     {
         "id": 10,
-        "idCategoria": 1,
-        "nombre": "Mac Air",
-        "marca": "Apple",
-        "modelo": "M1 2020",
-        "precio": 13000,
+        "idCategoria": 3,
+        "nombre": "Mixtura Canarios y Pericos",
+        "marca": "Penta Grama",
+        "modelo": "250gr",
+        "precio": 400,
         "stock": 25,
-        "img": "mac-air.jpg"
+        "img": "mixtura-canarios.jpg"
     },
     {
         "id": 11,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Samsung",
-        "modelo": "S20",
-        "precio": 85000,
-        "stock": 30,
-        "img": "samsung-s20.jpg"
+        "nombre": "Healthy Adult",
+        "marca": "Iams",
+        "modelo": "15kgs",
+        "precio": 21000,
+        "stock": 10,
+        "img": "IAMS-Healthy-Adult.png"
     },
     {
         "id": 12,
         "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "HP",
-        "modelo": "Pavilion 15",
-        "precio": 120000,
+        "nombre": "Large Breed",
+        "marca": "Iams",
+        "modelo": "15kg",
+        "precio": 8000,
         "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "img": "iams-perro.jpg"
     }
 
 ]
